@@ -36,6 +36,8 @@ env/
 Thumbs.db
 
 # Project specific
+# Allow specific model file
+!churn_pipeline.pkl
 *.pkl
 *.model
 *.h5
